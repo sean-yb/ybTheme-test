@@ -1,0 +1,21 @@
+/**
+*
+* This CSS document is embedded in /wp-content/themes/yellowbridge-1.0/style.css using @import
+*
+**/
+
+/*Import the font styles. This may not be needed but the current Chrome fix for jaggy fonts requires several lines of font embedding code and it gets really cumbersome so I gave it its own file. */
+@import url("../font/fonts.css");
+
+/*_________________________________________________________________________________________________________________________________________*/
+/*Below is where you should put all the code that overrides the Bootstrap CSS so we try to minimize editing the Bootstrap core files*/
+
+/*BOOTSTRAP OVERRIDES*//*BOOTSTRAP OVERRIDES*//*BOOTSTRAP OVERRIDES*//*BOOTSTRAP OVERRIDES*//*BOOTSTRAP OVERRIDES*//*BOOTSTRAP OVERRIDES*/
+
+
+
+
+/*_________________________________________________________________________________________________________________________________________*/
+/* This is where you you should start all your custom styles for the homepage and interior pages */
+
+/*FRONT PAGE STYLES*//*FRONT PAGE STYLES*//*FRONT PAGE STYLES*//*FRONT PAGE STYLES*//*FRONT PAGE STYLES*//*FRONT PAGE STYLES*//*FRONT PAGE STYLES*/
