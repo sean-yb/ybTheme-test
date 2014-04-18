@@ -1424,9 +1424,10 @@ strong.search-excerpt { background: yellow; }
           transition-duration: 0s;
 }
 
- .current_page_item{
- 	background:black;
- }
+.menu{
+	list-style: none;
+	padding:0;
+}
 
 /* =Media Queries
     If you're working on a Child Theme, make sure that all
@@ -1469,10 +1470,6 @@ strong.search-excerpt { background: yellow; }
  	float: left;
 	margin-right: 5px;
 	margin-left: -15px;
- }
- .menu{
- 	list-style: none;
- 	padding:0;
  }
  .menu li{
  	float:left;

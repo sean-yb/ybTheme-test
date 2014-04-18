@@ -23,7 +23,7 @@
 
     <div class="container">
 
-            <?php //wp_nav_menu( array('menu'=>'Footer')); ?>
+            <?php wp_nav_menu( array('menu'=>'Footer')); ?>
 
     </div>
 

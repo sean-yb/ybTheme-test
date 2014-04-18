@@ -53,10 +53,10 @@
 
 <header>
     <div class="container">
-        <div class="col-sm-4 col-xm-12">
+        <div class="col-sm-4 col-xs-12">
             <h1>Testing</h1>
         </div>
-        <div class="col-sm-6 col-xm-12 ">
+        <div class="col-sm-6 col-xs-12 ">
             <h1>Test Col</h1>
         </div>
     </div>
